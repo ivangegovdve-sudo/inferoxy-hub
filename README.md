@@ -72,7 +72,7 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 
 ### Links
 - Live Space: [huggingface.co/spaces/nazdridoy/inferoxy-hub](https://huggingface.co/spaces/nazdridoy/inferoxy-hub)
-- AI‑Inferoxy docs: [ai-inferoxy/huggingface-hub-integration](https://nazdridoy.github.io/ai-inferoxy/)
+- AI‑Inferoxy docs: [ai-inferoxy/huggingface-hub-integration](https://nazdridoy.github.io/ai-inferoxy-docs)
 - Gradio docs: [gradio.app/docs](https://gradio.app/docs/)
 
 — Built with AI‑Inferoxy for intelligent token management.
